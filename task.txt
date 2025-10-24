@@ -1,0 +1,1 @@
+Part one was complicated for me as the authentication was not working automaticall.Now,I am adding content for Part B.
